@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Tomoki\\Documents\\AndroidStudioProjects\\Sample\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Tomoki\\.android\\build-cache\\5a363fcdb55fdfaf5968cf6b1747ee4c91119857\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tomoki\\Documents\\AndroidStudioProjects\\Sample\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Tomoki\\.android\\build-cache\\5a363fcdb55fdfaf5968cf6b1747ee4c91119857\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="設定" >
+        <SwitchPreference
+            android:key="key_file_out"
+            android:title="ファイル出力" />
+        <EditTextPreference
+            android:key="disconnect_retry_time"
+            android:title="切断再接続時間[msec]"
+            android:maxLength="5"
+            android:inputType="number" />
+        <EditTextPreference
+            android:key="disconnect_retry_count"
+            android:title="切断再接続試行回数"
+            android:maxLength="4"
+            android:inputType="number" />
+    </PreferenceCategory>
+</PreferenceScreen>

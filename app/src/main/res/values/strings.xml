@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="config_name">設定</string>
+    <string name="action_available_data">利用可能データ</string>
+    <string name="action_available_ex">利用可能拡張分析</string>
+    <string name="action_status">利用状況</string>
+    <string name="action_battery">バッテリー</string>
+    <string name="action_config">設定</string>
+    <string name="action_exit">終了しますか？</string>
+</resources>

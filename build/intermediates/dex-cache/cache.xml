@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\.android\build-cache\5a363fcdb55fdfaf5968cf6b1747ee4c91119857\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\classes_c7bba975f9dabd7cb96509e5a8c6b9d762465428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\.android\build-cache\ffe53b5041cf0db5cdf1c0b62f9d58b9901dedd1\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_576d7f090d8ae89223b528349df47f1cf87a065b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\libs\docomo-hitoetransmitter-android-sdk-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42e701f8acb32b65c2159b4e365c27ce7f6e246d">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\docomo-hitoetransmitter-android-sdk-1.2.0_79141687f3e120fce3aab5ea047c559904119e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c6d2328aeeb3d08ce71522905288ae52af2560d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\.android\build-cache\ffe53b5041cf0db5cdf1c0b62f9d58b9901dedd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\classes_5daa4b6228a194019e8f521f2513252e9385acb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0_b2b614084cc93efcd783be5588a9c97292e16639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\libs\docomo-hitoetransmittereai-android-sdk-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d70c9eeda53f898896012885c8ee012d9fc2cd2">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\docomo-hitoetransmittereai-android-sdk-1.2.0_068be1d9f2cdf44fb6999be1f510240e9c354a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tomoki\.android\build-cache\c2771ea8df458efea20ca8f3bc764e6a42772082\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\build\intermediates\pre-dexed\debug\classes_5b1f1ddb366dd5d97481d254e62e22c758f59423.jar" />
+    </item>
+
+</items>

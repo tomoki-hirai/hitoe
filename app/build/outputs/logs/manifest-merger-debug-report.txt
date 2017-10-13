@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:9:22-65
+application
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:11:5-36:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\Tomoki\.android\build-cache\c2771ea8df458efea20ca8f3bc764e6a42772082\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Tomoki\.android\build-cache\5a363fcdb55fdfaf5968cf6b1747ee4c91119857\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Tomoki\.android\build-cache\ffe53b5041cf0db5cdf1c0b62f9d58b9901dedd1\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:16:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:18:9-44
+	android:allowBackup
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:12:9-42
+activity#jp.co.docomo.sdk.hitoe.sample.MainActivity
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:20:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:27:27-74
+activity#jp.co.docomo.sdk.hitoe.sample.ConfigActivity
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:32:13-48
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:31:13-42
+service#jp.co.docomo.sdk.hitoe.sample.APIService
+ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml:35:18-43
+uses-sdk
+INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.0.1] C:\Users\Tomoki\.android\build-cache\c2771ea8df458efea20ca8f3bc764e6a42772082\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Tomoki\.android\build-cache\5a363fcdb55fdfaf5968cf6b1747ee4c91119857\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Tomoki\.android\build-cache\ffe53b5041cf0db5cdf1c0b62f9d58b9901dedd1\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tomoki\Documents\AndroidStudioProjects\Sample\app\src\main\AndroidManifest.xml
